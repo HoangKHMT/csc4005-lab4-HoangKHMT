@@ -5,7 +5,7 @@
 - Họ tên: Nguyễn Đức Hoàng
 - Mã sinh viên: 1771040015
 - Lớp:KHMT 17-01
-- Link GitHub repo:
+- Link GitHub repo:https://github.com/HoangKHMT/csc4005-lab4-HoangKHMT
 - Link W&B project:https://wandb.ai/hoangnguyen2200568-dainam-vietnam/csc4005-lab4-urbansound8k-crnn/runs/4o28bwve?nw=nwuserhoangnguyen2200568
 
 ## 2. Mục tiêu thí nghiệm
@@ -83,6 +83,6 @@ Nhận xét:
 CRNN đã chứng minh được sự cải thiện đáng kể so với 1D-CNN nhờ khả năng nắm bắt được ngữ cảnh thời gian của âm thanh. Tuy nhiên, kết quả cho thấy việc sử dụng BiLSTM không tự động mang lại kết quả tốt hơn mà đòi hỏi phải tinh chỉnh kỹ hơn về dropout và learning rate để kiểm soát overfitting. Nếu có cơ hội phát triển tiếp, em sẽ (1) áp dụng thêm các kỹ thuật Data Augmentation như thêm nhiễu nền hoặc thay đổi cao độ để mô hình bền bỉ hơn, và (2) sử dụng Early Stopping để tự động dừng training đúng thời điểm val_loss đạt cực tiểu.
 ## 10. Link minh chứng
 
-- GitHub commit cuối:
+- GitHub commit cuối:https://github.com/HoangKHMT/csc4005-lab4-HoangKHMT
 - W&B run baseline: https://wandb.ai/hoangnguyen2200568-dainam-vietnam/csc4005-lab4-urbansound8k-crnn/runs/4o28bwve?nw=nwuserhoangnguyen2200568
 - W&B run mở rộng:
