@@ -50,7 +50,7 @@ Thí nghiệm này tập trung vào việc áp dụng kiến trúc CRNN (Convolu
 
 ## 6. Learning curves
 
-D:\HocSau\csc4005-lab4-HoangKHMT-main\outputs\logmel_crnn_bilstm_extension\curves.png
+![D:\HocSau\csc4005-lab4-HoangKHMT-main\outputs\logmel_crnn_bilstm_extension\curves.png](outputs/logmel_crnn_bilstm_extension/curves.png)
 
 Nhận xét:
 
